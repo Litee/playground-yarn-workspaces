@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "playground-yarn-workspaces",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "eslint": "^4.14.0"
+  }
+}
